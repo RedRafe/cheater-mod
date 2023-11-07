@@ -1,0 +1,13 @@
+{
+  "name": "cheater-mod",
+  "version": "0.1.0",
+  "title": "Cheaters' mod",
+  "author": "RedRafe",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "base >= 1.1"
+  ],
+  "homepage": "https://mods.factorio.com/mod/cheater-mod",
+  "source": "https://github.com/RedRafe/cheater-mod",
+  "description": "Adds meme sounds for programmable speakers"
+}
